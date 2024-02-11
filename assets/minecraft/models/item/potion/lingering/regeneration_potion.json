@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/potionstick_lingering",
+    "textures": {
+      "2": "minecraft:item/potion/regeneration"
+    }
+  }
+  

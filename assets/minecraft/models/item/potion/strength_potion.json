@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/potionstick_normal",
+    "textures": {
+      "2": "minecraft:item/potion/strength"
+    }
+  }
+  

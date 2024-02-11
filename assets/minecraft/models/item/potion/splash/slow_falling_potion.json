@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/potionstick_splash",
+    "textures": {
+      "2": "minecraft:item/potion/slow_falling"
+    }
+  }
+  
