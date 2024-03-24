@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/potionstick",
-  "textures": {
-    "layer0": "minecraft:item/potionstick"
-  }
-}
